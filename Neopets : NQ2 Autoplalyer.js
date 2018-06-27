@@ -9,7 +9,7 @@
 // @language     en
 // @include      http://www.neopets.com/games/nq2/nq2.phtml
 // @include      http://www.neopets.com/games/nq2/nq2.phtml*
-// @icon           http://gm.wesley.eti.br/icon.php?desc=32041
+// @icon         http://images.neopets.com/nq2/m/m5160_081ff.gif
 // @connect      github.com
 // @grant        GM_log
 // @grant        GM_addStyle
